@@ -347,3 +347,4 @@ This ML & Data Science Bootcamp is designed for learners who want to:
 
 *Last Updated: January 2026*
 *Repository: [LearningML](https://github.com/if164ever1/LearningML)*
+https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md
